@@ -24,7 +24,7 @@ IPT <- read.table(paste("C:/MyPath/",resolution,"/IPT/IPT_", resolution,"_rebinn
 IPT$ipt   <- replace(IPT$ipt, IPT$ipt == '<NA>', NA)
 
 
-##### Functions
+##### Functions to extract column name from filename (would have to adapt theses functions for altered file name)
 
 col_name_LOS <- function(x){
   a <- unlist(str_split(x,"/"))  
@@ -43,6 +43,8 @@ col_name_RNAseq <- function(x){
   b <- tail(a,1)
   DpnII_name <- paste("CPM_", unlist(str_split(b,"_"))[1],"_",unlist(str_split(b,"_"))[2],sep = "")
 }
+
+##### Core Functions
 
 get_moving_average <- function(x, y, n, s, dec) {
   ## Args:
