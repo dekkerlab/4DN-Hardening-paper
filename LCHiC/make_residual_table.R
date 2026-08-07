@@ -19,7 +19,7 @@ bins$chrom <- factor(bins$chrom, levels=c("chr1", "chr2", "chr3", "chr4", "chr5"
 bins <- bins[order(bins$chrom, bins$start,bins$end),]
 rownames(bins) <- NULL
 
-IPT <- read.table(paste0("C:/MyPath/",resolution,"/IPT/IPT_1mb_rebinned.bed"),
+IPT <- read.table(paste("C:/MyPath/",resolution,"/IPT/IPT_", resolution,"_rebinned.bed", sep=""),
                   sep="\t", header=TRUE)# col.names=c("chrom", "start", "end", "IPG"))
 IPT$ipt   <- replace(IPT$ipt, IPT$ipt == '<NA>', NA)
 
