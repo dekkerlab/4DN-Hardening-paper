@@ -1,0 +1,79 @@
+LOS_residuals_range2Mb_HB_2hPD_DpnII_R2_20240326:
+  LOS: LOS_range2Mb_HB_2hPD_DpnII_R2_20240326
+  signal: signal_HB_120mPD_R2_20250326
+
+LOS_residuals_range2Mb_mHep_2hPD_DpnII_R2_20240326:
+  LOS: LOS_range2Mb_mHep_2hPD_DpnII_R2_20240326
+  signal: signal_mHep_120mPD_R1_20250326
+
+LOS_residuals_range2Mb_H1ESC_nPI120mPD_DpnII_R1_20240125:
+  LOS: LOS_range2Mb_H1ESC_nPI120mPD_DpnII_R1_20240125
+  signal: signal_H1ESC_nPI240mPD_DpnII_R1_20230223
+  
+LOS_residuals_range2Mb_H1ESC_nPI180mPD_DpnII_R1_20240125:
+  LOS: LOS_range2Mb_H1ESC_nPI180mPD_DpnII_R1_20240125
+  signal: signal_H1ESC_nPI240mPD_DpnII_R1_20230223
+
+LOS_residuals_range2Mb_H1ESC_nPI240mPD_DpnII_R1_20240125:
+  LOS: LOS_range2Mb_H1ESC_nPI240mPD_DpnII_R1_20240125
+  signal: signal_H1ESC_nPI240mPD_DpnII_R1_20230223
+  
+LOS_residuals_range2Mb_H1ESC_nPI60mPD_DpnII_R1_20240125:
+  LOS: LOS_range2Mb_H1ESC_nPI60mPD_DpnII_R1_20240125
+  signal: signal_H1ESC_nPI240mPD_DpnII_R1_20230223
+
+LOS_residuals_range2Mb_HepG2_120mPD_DpnII_R1_20250624:
+  LOS: LOS_range2Mb_HepG2_120mPD_DpnII_R1_20250624
+  signal: signal_HepG2_120mPD_DpnII_R1_20250624
+  
+LOS_residuals_range2Mb_HepG2_240mPD_DpnII_R2_20250624:
+  LOS: LOS_range2Mb_HepG2_240mPD_DpnII_R2_20250624
+  signal: signal_HepG2_240mPD_DpnII_R2_20250624
+  
+LOS_residuals_range2Mb_HepG2_60mPD_DpnII_R2_20250624:
+  LOS: LOS_range2Mb_HepG2_60mPD_DpnII_R2_20250624
+  signal: signal_HepG2_60mPD_DpnII_R1_20250624
+  
+LOS_residuals_range2Mb_HB_2hPD_DpnII_R3_20250624:
+  LOS: LOS_range2Mb_HB_2hPD_DpnII_R3_20250624
+  signal: signal_HB_120mPD_R3_20250624
+  
+LOS_residuals_range2Mb_mHep_2hPD_DpnII_R2_20250624:
+  LOS: LOS_range2Mb_mHep_2hPD_DpnII_R2_20250624
+  signal: signal_mHep_120mPD_R2_20250624
+
+LOS_residuals_range2Mb_H1ESC_60mPDp05_DpnII_R3_20250820:
+  LOS: LOS_range2Mb_H1ESC_60mPDp05_DpnII_R3_20250820
+  signal: signal_H1ESC_60mPDp05_DpnII_20250820
+
+LOS_residuals_range2Mb_H1ESC_60mPDp10_DpnII_R3_20250820:
+  LOS: LOS_range2Mb_H1ESC_60mPDp10_DpnII_R3_20250820
+  signal: signal_H1ESC_60mPDp1_DpnII_20250820
+  
+LOS_residuals_range2Mb_H1ESC_60mPDp15_DpnII_R3_20250820:
+  LOS: LOS_range2Mb_H1ESC_60mPDp15_DpnII_R3_20250820
+  signal: signal_H1ESC_60mPDp15_DpnII_20250820
+  
+LOS_residuals_range2Mb_H1ESC_60mPDp20_DpnII_R3_20250820:
+  LOS: LOS_range2Mb_H1ESC_60mPDp20_DpnII_R3_20250820
+  signal: signal_H1ESC_60mPDp2_DpnII_20250820
+  
+LOS_residuals_range2Mb_H1ESC_60mPDp25_DpnII_R3_20250820:
+  LOS: LOS_range2Mb_H1ESC_60mPDp25_DpnII_R3_20250820
+  signal: signal_H1ESC_60mPDp25_DpnII_20250820
+  
+LOS_residuals_range2Mb_H1ESC_120mPDp25_DpnII_R3_20250820:
+  LOS: LOS_range2Mb_H1ESC_120mPDp25_DpnII_R3_20250820
+  signal: signal_H1ESC_120mPDp25_DpnII_20250820
+  
+LOS_residuals_range2Mb_H1ESC_240mPDp25_DpnII_R4_20250820:
+  LOS: LOS_range2Mb_H1ESC_240mPDp25_DpnII_R4_20250820
+  signal: signal_H1ESC_240mPDp25_DpnII_20250820
+  
+LOS_residuals_range2Mb_DE_120mPD_DpnII_R1_20260616:
+  LOS: LOS_range2Mb_DE_120mPD_DpnII_R1_20260616
+  signal: signal_DE_120mPD_R1_20260616
+  
+LOS_residuals_range2Mb_DE_120mPD_DpnII_R2_20260616:
+  LOS: LOS_range2Mb_DE_120mPD_DpnII_R2_20260616
+  signal: signal_DE_120mPD_R2_20260616
